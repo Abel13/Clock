@@ -1,5 +1,5 @@
 .vs
 packages
-Clock/bin
-Clock/obj
-Clock/Properties
+./Clock/bin
+./Clock/obj
+./Clock/Properties
