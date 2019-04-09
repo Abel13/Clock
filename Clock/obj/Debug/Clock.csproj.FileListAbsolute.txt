@@ -1,0 +1,15 @@
+C:\Users\abelo\source\repos\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\abelo\source\repos\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\abelo\source\repos\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\MainWindow.g.cs
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\App.g.cs
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock_MarkupCompile.cache
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock_MarkupCompile.lref
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\MainWindow.baml
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.g.resources
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\abelo\source\repos\Clock\Clock\obj\Debug\Clock.pdb
