@@ -1,5 +1,4 @@
 .vs
-packages
-./Clock/bin
-./Clock/obj
-./Clock/Properties
+package
+Clock/obj
+Clock/bin
